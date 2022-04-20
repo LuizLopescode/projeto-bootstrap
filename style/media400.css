@@ -1,0 +1,25 @@
+@media only screen and (max-width: 500px) {
+
+.list-group a{
+    font-size: 12px;
+    
+}
+.mw-100 h1{
+    font-size: 25px;
+}
+.mw-100 p{
+    font-size: 10px; 
+}
+.mw-100  .btn-primary{
+    
+    font-size: 10px;
+    text-align: center;
+    padding: 5px;
+}
+#Produtos{
+    align-items: center;
+    padding-left: 75px ;
+    
+    
+}
+}

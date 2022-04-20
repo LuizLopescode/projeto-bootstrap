@@ -1,0 +1,35 @@
+.container-price{
+    padding: 50px 100px;
+    width: 100%;
+    margin-top: 20px;
+}
+.map-container-3{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-3 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  .Navigator{
+    display: none;
+  }
+  .Hamburguer{
+  display: none;
+
+  }
+  #button-ham{
+    display: none;
+  }
+  .col{
+    max-height: 352px;
+  }
+  .card-body{
+    max-height: 265px;
+    flex-wrap: wrap;
+  }
